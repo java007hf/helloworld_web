@@ -1,0 +1,22 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "my first web proj",
+  "main": "index.js",
+  "scripts": {
+    "test": "helloworld!"
+  },
+  "author": "benylwang",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/java007hf/helloworld_web.git"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "bugs": {
+    "url": "https://github.com/java007hf/helloworld_web/issues"
+  },
+  "homepage": "https://github.com/java007hf/helloworld_web#readme"
+}
